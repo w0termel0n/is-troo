@@ -3,7 +3,7 @@ is_troo: The only package you'll ever need for finally figuring out what that ex
 
 Exports two functions:
 - 'is_troo(value)'     -> True if the value is True
-- 'is_thoothy(value)'  -> True if the value evaluates to True (is truthy)
+- 'is_troothy(value)'  -> True if the value evaluates to True (is truthy)
 """
 
 from .eval import is_troo, is_troothy
